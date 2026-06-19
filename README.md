@@ -1,0 +1,1 @@
+# aim-cockpit-manager-releases
