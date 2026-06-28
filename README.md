@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/screenshot.png" width="800" alt="AIM Cockpit Manager">
+  <img src="images/Screenshot 2026-06-28 104114.png" width="800" alt="AIM Cockpit Manager">
 </p>
 
 # AIM Cockpit Manager
