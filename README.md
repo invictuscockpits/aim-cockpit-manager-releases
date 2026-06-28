@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/screenshot.png" width="800" alt="AIM Cockpit Manager">
+</p>
+
 # AIM Cockpit Manager
 
 The companion app for your Invictus cockpit. It connects your panels, stick, and
